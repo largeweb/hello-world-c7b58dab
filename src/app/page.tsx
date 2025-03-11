@@ -1,0 +1,1 @@
+You didn't provide a tracker. Please provide the complete validated tracker XML for the new project so I can generate the code for `src/app/page.tsx`.
